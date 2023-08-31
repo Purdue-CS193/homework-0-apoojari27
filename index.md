@@ -1,8 +1,22 @@
+# Akki's First CS193 Homework
+
+### Some of my favorite things about CS193
+- The weekly slides are engaging
+- They teach important information
+- I learn easier when they teach
+- I can attend PSO's to get help
+- I can attend office hours to learn
+- They make sure students are engaged with lecture quizzes
+- There are no exams!
+- It is taught by students
+- The room is not too hot
+- I know I will have a good time in the upcoming semester!
+
 ## My name is Akki Poojari
 
 I am a freshman here at Purdue. My hometown is Overland Park, Kansas, which is about 15 minutes from Kansas City, Missouri. In accordance, I am a huge Kansas City Chiefs fan and I basically live for football. I have a younger brother named Anish. We both play tennis but he is better for his age as he is top 10 in the country. Though I miss home, I am excited for the next 4 years here at Purdue!
 
-### Courses
+### Courses I am taking
 
 - MA271  
 - TDM101  
@@ -11,6 +25,8 @@ I am a freshman here at Purdue. My hometown is Overland Park, Kansas, which is a
 - PSY120  
 - CS176  
 - CS193  
+
+### Markdown
 
 ```markdown
 Syntax highlighted code block
