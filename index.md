@@ -4,7 +4,7 @@ I am a freshman here at Purdue. My hometown is Overland Park, Kansas, which is a
 
 ### Courses
 
-MA271
+MA271\n
 TDM101
 HONR199
 TDM111
